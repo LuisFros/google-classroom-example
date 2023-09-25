@@ -16,7 +16,7 @@ Git is a version control system that helps you track changes in your code and co
 1. Open Terminal (you can find it in the Utilities folder within the Applications folder).  
 2. Install Homebrew (a package manager for macOS) if you don't have it already. Run this command in Terminal:  
 ```  
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```  
 3. After Homebrew is installed, run this command to install Git:  
 ```  
