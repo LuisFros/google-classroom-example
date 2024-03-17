@@ -76,7 +76,7 @@ GitHub is a web-based platform for version control and collaboration. Follow the
   
 4. Follow the on-screen instructions to complete the account creation process.  
   
-## Step 4: Installing GitHub Desktop (Optional)  
+## Step 4: Installing GitHub Desktop
   
 GitHub Desktop provides a user-friendly GUI for managing your Git repositories. While not essential, it can be helpful for beginners.  
   
