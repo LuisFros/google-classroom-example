@@ -46,22 +46,22 @@ Git is a version control system that helps you manage and track changes in your 
 
 # Basic Command Line Commands for Mac and Windows
 
-Let's assume you have a folder called "IDA2023" on your computer.
+Let's assume you have a folder called "IDA2024" on your computer.
 
 ### Print Working Directory
 
-- **Mac:** Shows your current directory. For example, if you are inside the "IDA2023" folder, running `pwd` will display its path.
+- **Mac:** Shows your current directory. For example, if you are inside the "IDA2024" folder, running `pwd` will display its path.
 - **Windows:** you can use the `cd` command
 
 ### Change Directory
 
-- **Mac/Windows:** Switch to a different directory. For instance, to enter the "IDA2023" folder, you would run `cd IDA2023` or `cd ../` to move up the directory 
+- **Mac/Windows:** Switch to a different directory. For instance, to enter the "IDA2024" folder, you would run `cd IDA2024` or `cd ../` to move up the directory 
 
 ### List Files and Directories
 
-- **Mac:** Lists files and folders in the current directory. If you run `ls` inside "IDA2023," it will display the contents of that folder.
+- **Mac:** Lists files and folders in the current directory. If you run `ls` inside "IDA2024" it will display the contents of that folder.
 
-- **Windows:** Use `dir` to do the same. Running `dir` inside "IDA2023" will show the contents of the folder.
+- **Windows:** Use `dir` to do the same. Running `dir` inside "IDA2024" will show the contents of the folder.
 
 ### More resources:
 - https://linuxjourney.com/lesson/the-shell
